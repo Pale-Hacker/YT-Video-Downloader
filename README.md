@@ -1,5 +1,4 @@
 # YT-Video-Downloader
-## By : Pale-Hacker
 
 ### How To Run :
 1. Install [Git](https://git-scm.com/downloads)
